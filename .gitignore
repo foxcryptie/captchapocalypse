@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+keys/
+*.pem
+*.key
+top100.txt
+dashboard.html
